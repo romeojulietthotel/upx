@@ -32,3 +32,4 @@ Just read it and fill in the details we're asking, it saves so much of our time.
 <!--- Include as many relevant details about the environment you experienced the bug in -->
 * UPX version used (`upx --version`):
 * Operating System and version:
+* CPU architecture:
